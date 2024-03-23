@@ -1,6 +1,6 @@
 # git command
 
-The command `git command` will take all tracked changes (items added with `git add`) and package them up in what is called a commit.
+The command `git commit` will take all tracked changes (items added with `git add`) and package them up in what is called a commit.
 
 Commits come with commit messages that are required for each commit. You add a message by using the `-m` flag followed by a message in quotes.
 
@@ -18,4 +18,4 @@ Then when viewing the history of a git repository, you pinpoint where the regist
 ## Resources
 - [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 
-[Back to Home](./README)
+[Back to Home](./README.md)
